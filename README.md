@@ -1,5 +1,5 @@
-# 01886384
-Approximate-robust-model-predictive-control-design-using-off-line-computational-methods
+# Approximate-robust-model-predictive-control-design-using-off-line-computational-methods
+
 
 Code for 20IC Msc Control Systems Individual Project
 
